@@ -1,0 +1,7 @@
+# Requirements for a basic Asyncio tool that uses
+# the Python requests library
+
+# TODO: Add any libraries required below
+
+requests>=2.25.1
+urllib3>=1.26.3
